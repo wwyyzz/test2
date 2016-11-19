@@ -20,7 +20,7 @@ class Ui_Dialog(object):
         self.pushButton_2.setGeometry(QtCore.QRect(220, 170, 75, 23))
         self.pushButton_2.setObjectName("pushButton_2")
         self.label = QtWidgets.QLabel(Dialog)
-        self.label.setGeometry(QtCore.QRect(120, 80, 91, 31))
+        self.label.setGeometry(QtCore.QRect(70, 80, 281, 31))
         self.label.setObjectName("label")
 
         self.retranslateUi(Dialog)

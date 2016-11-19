@@ -29,7 +29,7 @@ class Dialog(QDialog, Ui_Dialog):
         """
         Slot documentation goes here.
         """
-        self.label.setText("This is my first app")
+        self.label.setText("This is my first app !")
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
